@@ -241,9 +241,36 @@ import {
       iconBg: "#383E56",
       date: "09/2021 - 10/2021",
       points: [
-        "Prediction of marks of a student based on study hours (supervised learning: Regression Model )",
-        "Optimum number of clusters required to represent dataset virtually (unsupervised learning: K-Means Clustering Model)",
-        "Exploratory data analysis using data visualization libraries and metrics."
+        "Improved stock data forecasting accuracy to 92% through implementing optimized K-Means Clustering, Feature Engineering and cross validation.",
+        "Guided & mentored 10+ candidates on data analytical solutions, machine learning models by validating error estimations & sharing resources.",
+        "Exploratory data analysis using data visualization libraries and metrics.",
+        "Skills: Machine Learning · Data Science · Data Analysis · Business Strategy"
+      ],
+    },
+      {
+      title: "WEB DEVELOPER INTERN",
+      company_name: "CARTHS GROUP",
+      icon: backend,
+      iconBg: "#E6DEDD",
+      date: "02/2023 - 04/2023",
+      points: [
+        "Collaborative development of 5+ website designs, incorporating frontend responsive components. Resulted in a remarkable 15% increase in customer satisfaction.",
+        "Significantly enhanced code quality through refactoring and custom theme development, leading to a consistent 8% weekly boost in user attraction and engagement.",
+        "Worked with WordPress and Gutenberg Blocks to craft website architecture and achieve effortless server integration, streamlining the development process.", 
+        "Skills: Front-End Development · React.js · Tailwind CSS"
+      ],
+    },
+      {
+      title: "SOFTWARE ENGINEER INTERN",
+      company_name: "AMBEE",
+      icon: web,
+      iconBg: "#383E56",
+      date: "05/2023 - 07/2023",
+      points: [
+        "Managed scalable code for scheduling ETL (Extracting, Transforming and Loading) job for real-time batch processed data, efficiently converting JSON from API calls to Parquet format, achieving 33% data compression.",
+        "Developed a scalable rate limiting algorithm using sliding window for API calls, ensuring smooth data processing at a monthly scale. Practiced Agile (Scrum) methodologies throughout the development lifecycle.",
+        "Leveraged Glue Data catalog and sink connectors, writing data into the catalog database, enhancing data organization. Worked with geospatial data, cloud-based technologies and executed AWS Athena queries.",
+        "Skills: Python · Database Management System (DBMS) · Amazon Web Services (AWS) · Docker · PySpark · Git"
       ],
     },
     {
