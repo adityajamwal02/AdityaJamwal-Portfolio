@@ -47,10 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-4xl leading-[30px]'
       >
-        Hey there, I am a Final Year student, curently pursuing B.Tech. in Computer Science and Engineering 
-        (CSE) at Jaypee Institute of Information Technology (JIIT).        
+        Software Engineer - Cisco 
+        Specialist (1554) - Codeforces
+        Knight (1994)     - Leetcode
+        B.Tech. (CSE)     - Jaypee Institute of Information Technology (JIIT).        
         <br></br>
-        I'm an explorer and versatile person who enjoys problem solving and development. 
+        An explorer and versatile person who enjoys problem solving and development. 
         Constantly eager to learn new algorithms, tools & technologies and explore various domains. I like
         contributing to projects where I can gear up my skills and knowledge.
         <br></br>
